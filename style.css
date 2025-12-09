@@ -21,15 +21,4 @@ span {
   pointer-events: none;
   background: url(assets/mouse.png) center/contain no-repeat fixed, #e8dcc8;
   background-repeat: no-repeat;
-  animation: fadeOut 3s ease-out forwards;
-}
-
-@keyframes fadeOut {
-  0%,
-  80% {
-    opacity: 1;
-  }
-  100% {
-    opacity: 0;
-  }
 }
