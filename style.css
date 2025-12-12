@@ -19,6 +19,6 @@ span {
   width: 100px;
   border-radius: 50%;
   pointer-events: none;
-  background: url(assets/mouse.png) center/contain no-repeat fixed, #e8dcc8;
+  background: #cbff00;
   background-repeat: no-repeat;
 }
